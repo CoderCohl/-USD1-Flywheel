@@ -1,6 +1,6 @@
 # 🚀 快速致富 — USD1 Flywheel
 
-![快速致富](./shibaonh.png)
+![快速致富](./shibaonhh.png)
 
 **快速致富 USD1 Flywheel** is a meme-native, mechanism-driven value loop built on the USD1 narrative.
 
@@ -177,4 +177,5 @@ If attention persists, the flywheel spins.
 
 **快速致富**  
 **USD1 Flywheel**
+
 
